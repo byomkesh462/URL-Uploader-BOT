@@ -16,7 +16,7 @@ Developed with ❤
 
 ✪ Send url (example.com/filename.mp4 | New Filename.mp4).
 
-✪ Press /deletethumbnail to delete the current thumbnail.
+✪ Press /delthumb to delete the current thumbnail.
 
 ✪ Select the button:
    Video  - streamable video without screenshot
@@ -34,8 +34,8 @@ Developed with ❤
 <b>📕 Library:</b> Pyrogram 1.0.7
 
 <b>🔔 Updates Channel:</b> <a href='https://t.me/ullastv'>ULLASTV</a>"""
-    FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate.</a> \n\nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n\nYou can use /deletethumbnail to delete the auto-generated thumbnail.\n"
-    SET_CUSTOM_USERNAME_PASSWORD = """\n If you want to download premium videos, provide the following format:\n
+    FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate.</a> \n\nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n"
+    SET_CUSTOM_USERNAME_PASSWORD = """\nIf you want to download premium videos, provide the following format:\n
 URL | filename | username | password"""
     DOWNLOAD_START = "📥 Downloading to my server..."
     UPLOAD_START = "📤 Uploading to telegram..."
