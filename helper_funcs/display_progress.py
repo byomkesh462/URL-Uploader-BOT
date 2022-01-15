@@ -9,6 +9,7 @@ logging.basicConfig(level=logging.DEBUG,
 logger = logging.getLogger(__name__)
 
 import math, os, time, shutil
+import asyncio
 
 # the secret configuration specific things
 if bool(os.environ.get("WEBHOOK", False)):
