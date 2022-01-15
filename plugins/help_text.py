@@ -9,6 +9,7 @@ logging.basicConfig(level=logging.DEBUG,
 logger = logging.getLogger(__name__)
 
 import os
+import asyncio
 import sqlite3
 
 # the secret configuration specific things
