@@ -1,5 +1,5 @@
 {
-  "name": "Uploader X Bot",
+  "name": "URL to Telegram Upload Bot",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [
     "telegram",
@@ -14,8 +14,8 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://t.me/Uploader_X_bot",
-  "website": "https://github.com/Clinton-Abraham",
+  "success_url": "https://t.me/m8u3_bot",
+  "website": "https://github.com",
   "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
   "env": {
     "WEBHOOK": {
