@@ -30,11 +30,11 @@ async def button(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
 					[
-						InlineKeyboardButton("👥 𝐇𝐞𝐥𝐩", callback_data="help"),
-						InlineKeyboardButton("🌐 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞", url="https://t.me/MoviesFlixers_DL")
+						InlineKeyboardButton("👥 𝗛𝗲𝗹𝗽", callback_data="help"),
+						InlineKeyboardButton("🌐 𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url="https://t.me/ullastv")
 					],
 					[
-						InlineKeyboardButton("🏠 𝐇𝐨𝐦𝐞", callback_data="gotohome") 
+						InlineKeyboardButton("🏠 𝗛𝗼𝗺𝗲", callback_data="gotohome") 
 					]
 	        ]
             )
@@ -48,11 +48,11 @@ async def button(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                                         [
-						InlineKeyboardButton("𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞𝐬 𝐨𝐟 𝐁𝐨𝐭 ", url="https://t.me/Moviesflixers_DL")
+						InlineKeyboardButton("𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/ullastv")
 					],
 					[
-						InlineKeyboardButton("👥 𝐀𝐛𝐨𝐮𝐭 ", callback_data="aboutbot"),
-						InlineKeyboardButton("🏠 𝐇𝐨𝐦𝐞", callback_data="gotohome")
+						InlineKeyboardButton("👥 𝗔𝗯𝗼𝘂𝘁", callback_data="aboutbot"),
+						InlineKeyboardButton("🏠 𝗛𝗼𝗺𝗲", callback_data="gotohome")
 					]
                 ]
             )
@@ -66,16 +66,16 @@ async def button(bot, update):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-						InlineKeyboardButton("🛑 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 🛑", url="https://t.me/TeleRoid14"),
-						InlineKeyboardButton("⭕ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⭕", url="https://t.me/TeleRoidGroup")
+						InlineKeyboardButton("𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/m8u3_bot"),
+						InlineKeyboardButton("𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url="https://t.me/ullastv")
 					],
 					[
-						InlineKeyboardButton("👥 𝐀𝐛𝐨𝐮𝐭 ", callback_data="aboutbot"),
-						InlineKeyboardButton("🗣️ 𝐇𝐞𝐥𝐩 ", callback_data="help")
+						InlineKeyboardButton("👥 𝗔𝗯𝗼𝘂𝘁 ", callback_data="aboutbot"),
+						InlineKeyboardButton("🗣️ 𝗛𝗲𝗹𝗽 ", callback_data="help")
 					], 
                                         [
-						InlineKeyboardButton("🌐 𝐆𝐢𝐭𝐡𝐮𝐛 ", url="https://GitHub.com/PredatorHackerzZ"),
-						InlineKeyboardButton("📢 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲", url="https://t.me/MoviesFlixers_DL")
+						InlineKeyboardButton("🌐 𝗠𝗼𝘃𝗶𝗲 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ", url="https://t.me/ullastv"),
+						InlineKeyboardButton("📢 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆", url="https://t.me/ibyomkesh2")
 	            ]
                 ]
             )
