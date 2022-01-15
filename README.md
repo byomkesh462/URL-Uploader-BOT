@@ -3,6 +3,8 @@
 
 Telegram RoBot to Upload Links.
 
+This is cloned version. Original Repo Link 👉 [Click to see](https://github.com/PredatorHackerzZ/UPLOADER-BOT)
+
 **Features**:
 
 👉 Upload [YouTube-dl Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html) to Telegram.
